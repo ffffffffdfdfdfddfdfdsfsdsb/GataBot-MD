@@ -116,7 +116,7 @@ await conn.sendFile(m.chat, gataImg, 'lp.jpg', menuA, fkontak, false, { contextI
 
   
 } if (command == 'night'){ //buscador
-let menuA = `🎈 ${lenguajeGB['smsConfi2']()} *${username}*
+let menuA = `🎈 ${lenguajeGB['night']()} *${username}*
 
 ╭┄〔 *${wm}* 〕┄⊱
 ┊დ *${week}, ${date}*
