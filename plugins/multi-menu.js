@@ -115,7 +115,7 @@ await conn.sendFile(m.chat, gataImg, 'lp.jpg', menuA, fkontak, false, { contextI
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
-} if (command == 'buscarmenu'){ //buscador
+} if (command == 'night'){ //buscador
 let menuA = `🎈 ${lenguajeGB['smsConfi2']()} *${username}*
 
 ╭┄〔 *${wm}* 〕┄⊱
