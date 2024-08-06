@@ -407,7 +407,7 @@ await conn.sendFile(m.chat, gataImg, 'lp.jpg', menuA, fkontak, false, { contextI
 
   
 } if (command == 'grupomenu' || command == 'menugrupo'){ //grupo
-let menuA = `🔰 ${lenguajeGB['smsConfi2']()} *${username}*
+let menuA = `🔰 ${lenguajeGB['◡̈⃝˼‏👤˹ ━━|قسم الجروب│━━˼👤˹◡̈⃝']()} *${username}*
 
 ╭┄〔 *${wm}* 〕┄⊱
 ┊დ *${week}, ${date}*
